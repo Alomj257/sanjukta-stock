@@ -1,6 +1,6 @@
 
 const apis = () => {
-  const local = 'http://localhost:5000/';
+  const local = 'https://sanjukta-stock.onrender.com/';
 
   const list = {
     registerUser:`${local}user/register`,
